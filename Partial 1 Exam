@@ -1,0 +1,60 @@
+<head><script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+</head>
+
+<div class="ui segment">
+  <div class="ui two column very relaxed grid">
+    <div class="center aligned column">
+      <h1>Frontend</h1>
+      <h3>"Frontend is everything the user interacts with and can see, such as: buttons, banners, menus, sliders and so on."</h3>
+      </div>
+    <div class="center aligned column">
+      <h1>Backend</h1>
+      <h3> "The backend is everything the user does not see like databases and processes such as loading or modifying information."
+      </h3>
+    </div>
+  </div>
+  <div class="ui vertical divider">
+    vs
+  </div>
+</div>
+<div class="ui horizontal segments">
+  <div class="ui segment">
+    <h2>End user</h2>
+    <h4>The end user is the person who the programmer and the company had made the page or program.</h4>
+  </div>
+  <div class="ui segment">
+    <h2>Client</h2>
+    <h4>The client is the person who asked for a progamm or page made, it is not the person who <br> made the program nor is intended to be using</h4>
+  </div>
+  <div class="ui segment">
+    <h2>CDN architecture</h2>
+    <h4>CDN architecture refers to having more than one server each on different places to minimize the <br> distance between the visitors and the site's server to reduce response time and to have a <br>replacement for server if one or more servers happen to fail</h4>
+  </div>
+</div>
+<div class="ui segment">
+  <h1 align="center">History of HTML and CSS</h1>
+  <h3 align = "center">HTML was invented by Tim Berners Lee to have a standard for the browsers in response to the browser war. Each browser had a different way to interpret each website, leading to a lot of websites not being able to be accesed by the public because of the incompatibility. Was used to make all the websites and it was so easy and so good that it had a boom. People soon started to want more and more but had the need for. CSS was made to enable a document's style be influenced by multiple style sheets by way of cascading styles.</h3>
+</div>
+<br>
+<h1 class="ui horizontal divider">
+  special thanks to
+</h1>
+<br>
+<div class="ui segment">
+  <div class="ui two column very relaxed grid">
+    <div class="column">
+      <h2 align="center">Crazy 8's</h2>
+      <br>
+      <img class="ui centered small rounded image" src="https://i.postimg.cc/sXJnCknP/52293326-534140233775107-9162642762657431552-n.jpg">
+    </div>
+    <div class="column">
+      <h2 align="center">My royal (unmovable) companion</h2>
+      <img class="ui centered medium rounded image" src="https://i.postimg.cc/rsFfVfbB/52407206-384165059046285-115380263432749056-n.jpg">
+    </div>
+  </div>
+  <div class="ui vertical divider">
+    and
+  </div>
+</div>
